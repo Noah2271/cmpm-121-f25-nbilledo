@@ -1,1 +1,5 @@
-Counter for CMPM-121. Number of thingies now displayed in console and counter incremented in console.
+Counter for CMPM-121. 
+Changes: 
+- Updates counter element to display on the website
+- Logs the counter value element in the console
+- Removed ignore comment
